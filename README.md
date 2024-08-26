@@ -1,6 +1,8 @@
 # MyOwnNotes
 This notes inlcude the personal details along with Tech details
 
+Full details loading ........................
+
 Hi ~ hi, I'm Bhargav✌️
 A Entusiast Data Engineer, Data Analyst and Passionate About Data to make impactful on utilizing for a meaningful purpose 
 I like to ............!
