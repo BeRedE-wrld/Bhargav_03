@@ -70,7 +70,7 @@ Hello, Namaste, Namaskarah, Namaskara, Sat Shri Akal, Vanakkam , Nomoskar, Aadab
 
 
 
-![Success](https://www.scrolldroll.com/wp-content/uploads/2020/01/APJ-Abdul-Kalam-Quotes-8.jpg)
+> ![excellence](https://www.baltana.com/files/wallpapers-4/Dr.-A.P.J.-Abdul-Kalam-Quotes-Wallpaper-HD-13810.jpg)
 
 
 
