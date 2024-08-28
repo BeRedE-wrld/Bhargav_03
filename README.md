@@ -67,6 +67,14 @@ Hello, Namaste, Namaskarah, Namaskara, Sat Shri Akal, Vanakkam , Nomoskar, Aadab
 
 
 
+
+
+
+![Success](https://www.scrolldroll.com/wp-content/uploads/2020/01/APJ-Abdul-Kalam-Quotes-8.jpg)
+
+
+
+
 [Below are the Links invisible used in above link references, This is also comment]: #
 
 [L1]: https://github.com/Bhargav-ehub
