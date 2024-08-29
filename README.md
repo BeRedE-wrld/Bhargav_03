@@ -1,6 +1,10 @@
 
 # About Me
 
+```Welcome!
+Thank you for visiting this page, Please scroll down to know about me.
+```
+
 🇮🇳 🛕
 
 Hello, Namaste, Namaskarah, Namaskara, Sat Shri Akal, Vanakkam , Nomoskar, Aadab, Parnam, Radhe Radhe, Khamma Gani, Assālam alaykum, Kem Chho, Chibai, Bonjour, Hola, Ciao, Hola, Salam, Ohayo, Merhaba, Halo, Ni Hau ................
@@ -13,13 +17,16 @@ Hello, Namaste, Namaskarah, Namaskara, Sat Shri Akal, Vanakkam , Nomoskar, Aadab
  🏃‍♂️ I love walking    
  🏏 I fancy about Playing and watching cricket  
  👱‍♂️ Yes,I'm conservative     
+ 🏍️         
 
 
 
 <ins>**MyGoals**</ins>  
 
 🥅 Become a `CHEF`.  
-🥅 Pursue masters in Expertise with `Cooking Data`                               
+🥅 Pursue masters in Expertise with `Cooking Data`    
+🥅 Torture the `Data`, It will confess to anything 😜            
+
 
       
 
