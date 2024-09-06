@@ -45,7 +45,7 @@ Hello, Namaste, Namaskarah, Namaskara, Sat Shri Akal, Vanakkam , Nomoskar, Aadab
   
 <ins>***Please do reach me***</ins>
 
-[LinkedIn][L1] | [Insta][IG] | [Gmail][G1] | [FaceBook][Fb] | [GitHub][GH] | [CricHeroes][CH]         
+[LinkedIn][LIn] | [Insta][IG] | [Gmail][G1] | [FaceBook][Fb] | [GitHub][GH] | [CricHeroes][CH]         
 
 
 
@@ -84,10 +84,10 @@ Hello, Namaste, Namaskarah, Namaskara, Sat Shri Akal, Vanakkam , Nomoskar, Aadab
 
 [Below are the Links invisible used in above link references, This is also comment]: #
 
-[L1]: https://github.com/Bhargav-ehub
-[IG]: https://github.com/Bhargav-ehub
+[LIn]: https://www.linkedin.com/in/bhargav-reddye-571543179/
+[IG]: https://www.instagram.com/e_bhargav_red_e/
 [G1]: ebreddy1997@gmail.com
-[Fb]: https://github.com/Bhargav-ehub
+[Fb]: https://www.facebook.com/BhrgvreddE
 [GH]: https://github.com/Bhargav-ehub
 [CH]: https://cricheroes.com/player-profile/23878072/bhargav/matches  
 
